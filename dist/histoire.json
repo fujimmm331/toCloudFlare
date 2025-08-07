@@ -1,0 +1,129 @@
+{
+  "stories": [
+    {
+      "id": "src-components-common-basebtn-basebtn-story-vue",
+      "title": "BaseBtn",
+      "group": "common",
+      "layout": {
+        "type": "grid",
+        "width": "200px"
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-components-common-basebtn-basebtn-story-vue-0",
+          "title": "Default"
+        },
+        {
+          "id": "src-components-common-basebtn-basebtn-story-vue-1",
+          "title": "Sizes"
+        },
+        {
+          "id": "src-components-common-basebtn-basebtn-story-vue-2",
+          "title": "Colors"
+        },
+        {
+          "id": "src-components-common-basebtn-basebtn-story-vue-3",
+          "title": "Variants"
+        },
+        {
+          "id": "src-components-common-basebtn-basebtn-story-vue-4",
+          "title": "Behaviors"
+        },
+        {
+          "id": "src-components-common-basebtn-basebtn-story-vue-5",
+          "title": "Loading State"
+        },
+        {
+          "id": "src-components-common-basebtn-basebtn-story-vue-6",
+          "title": "Interactive Example"
+        }
+      ],
+      "relativePath": "src/components/Common/BaseBtn/BaseBtn.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Common",
+        "BaseBtn"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-components-common-basecard-basecard-story-vue",
+      "title": "BaseCard",
+      "group": "common",
+      "layout": {
+        "type": "grid",
+        "width": "300px"
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-components-common-basecard-basecard-story-vue-0",
+          "title": "Default"
+        },
+        {
+          "id": "src-components-common-basecard-basecard-story-vue-1",
+          "title": "Shadow Variations"
+        },
+        {
+          "id": "src-components-common-basecard-basecard-story-vue-2",
+          "title": "Content Examples"
+        },
+        {
+          "id": "src-components-common-basecard-basecard-story-vue-3",
+          "title": "Interactive Example"
+        }
+      ],
+      "relativePath": "src/components/Common/BaseCard/BaseCard.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Common",
+        "BaseCard"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-components-common-baseheading-baseheading-story-vue",
+      "title": "BaseHeading",
+      "group": "common",
+      "layout": {
+        "type": "single",
+        "iframe": false
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-components-common-baseheading-baseheading-story-vue-0",
+          "title": "Default"
+        },
+        {
+          "id": "src-components-common-baseheading-baseheading-story-vue-1",
+          "title": "All Heading Levels"
+        },
+        {
+          "id": "src-components-common-baseheading-baseheading-story-vue-2",
+          "title": "Content Examples"
+        },
+        {
+          "id": "src-components-common-baseheading-baseheading-story-vue-3",
+          "title": "Interactive Example"
+        },
+        {
+          "id": "src-components-common-baseheading-baseheading-story-vue-4",
+          "title": "Hierarchy Example"
+        }
+      ],
+      "relativePath": "src/components/Common/BaseHeading/BaseHeading.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Common",
+        "BaseHeading"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    }
+  ],
+  "markdownFiles": []
+}
